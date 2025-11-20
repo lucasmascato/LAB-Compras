@@ -79,4 +79,4 @@ _Resultados esperados_:
 ```python
 Los días estrella del supermercado Aldi de la provincia de Huelva son: ['04/01/2019', '18/02/2019', '10/03/2019', '20/03/2019', '07/04/2019', '27/05/2019', '31/05/2019', '16/07/2019', '04/08/2019', '07/10/2019', '13/11/2019', '02/12/2019']
 ```
-7.	Complete el código de las funciones de test del módulo `compras_test.py` para probar las funciones anteriores, teniendo en cuenta que la salida por consola de la ejecución de los test debe ser la siguiente. _(1 punto)_
+7.	Complete el código de las funciones de test del módulo `compras_test.py` para probar las funciones anteriores, teniendo en cuenta que la salida por consola de la ejecución de los test debe ser la siguiente. 
